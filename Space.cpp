@@ -1,5 +1,4 @@
 #include "stdafx.h"
-
 // Se pueden definir SHARED_HANDLERS en un proyecto ATL implementando controladores de vista previa, miniatura
 // y filtro de búsqueda, y permiten compartir código de documentos con ese proyecto.
 #ifndef SHARED_HANDLERS
